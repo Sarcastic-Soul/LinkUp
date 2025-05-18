@@ -1,6 +1,6 @@
-# Chat App
+# LinkUp - Chat App
 
-This guide provides step-by-step instructions to set up and run the Chat App built using Expo. The app allows users to communicate in real-time, with features like image uploads powered by Cloudinary and authentication/database handled by Firebase. Follow the steps below to get started.
+This guide provides step-by-step instructions to set up and run the LinkUp built using Expo. The app allows users to communicate in real-time, with features like image uploads powered by Cloudinary and authentication/database handled by Firebase. Follow the steps below to get started.
 
 ---
 
